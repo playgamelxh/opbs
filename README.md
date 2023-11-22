@@ -1,0 +1,2 @@
+# opbs
+opbs mint info
