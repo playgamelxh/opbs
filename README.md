@@ -103,3 +103,11 @@ addres num: 1762
 0x1d9fb8ce2ee7cd2a1f0f40a08c7d6da004878d04   49052
 0x58a02121c0bb9915dad08fe699699fd300000000   54962
 ```
+
+# statistic cmd
+```
+# mint num
+cat wallet.txt| wc -l
+# address num
+sort wallet.txt | uniq | wc -l
+```
