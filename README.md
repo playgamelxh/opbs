@@ -111,6 +111,10 @@ cat wallet.txt| wc -l
 # address num
 sort wallet.txt | uniq | wc -l
 # rank
-sort wallet.txt | uniq -c > 1.txt
-sort k1,1n 1.txt
+# mint num
+cat wallet.txt| wc -l
+# address num
+sort wallet.txt | uniq | wc -l
+# rank
+sort wallet.txt | uniq -c | sort -k1,1n
 ```
