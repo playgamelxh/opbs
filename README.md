@@ -24,9 +24,9 @@ data:,{"p":"opb-20","op":"mint","tick":"opbs","amt":"100000000”}
 
 # mint statistic info
 ```
-block max num: 8951397
-mint num: 3647314
-addres num: 1739
+block max num: 8967918
+mint num: 3765387
+addres num: 1762
 
 ```
 
